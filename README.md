@@ -1,4 +1,5 @@
 # Certificate Generation System
+A live demo: https://verify.cscindia.org.in/
 
 A comprehensive Django-based web application for generating, verifying, and managing digital certificates with QR code verification, email integration, and Google Drive backup functionality.
 
